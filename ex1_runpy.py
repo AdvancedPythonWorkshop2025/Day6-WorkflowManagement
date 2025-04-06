@@ -1,5 +1,5 @@
 """
-Exercise: Download and Deprocess Data
+Exercise: Download and Deprocess Data in order to get our "raw" sessions.
 
 | Code                                                     | Description                                                                   |
 | `run_path('myscript.py')`                                | Run a script in the current python session                                    |
