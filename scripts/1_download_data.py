@@ -8,7 +8,7 @@ from tqdm import tqdm
 os.chdir(Path(__file__).parent.parent)
 
 
-# %% Set Parameters
+# %% Set Script Parameters
 if not 'url' in globals():
     url = "https://uni-bonn.sciebo.de/s/Po9q3wLiNXTxgbj"
 if not 'nfiles' in globals():
