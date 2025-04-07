@@ -1,5 +1,5 @@
 """
-Exercise 3: Delete the data/original folder and run the snakemake workflow in this file.
+Exercise 1: Delete the data/original folder and run the snakemake workflow in this file.
 
 
 | Code                               |
@@ -8,7 +8,7 @@ Exercise 3: Delete the data/original folder and run the snakemake workflow in th
 | `snakemake --rulegraph mermaid-js  |
 
 
-Exercise 4: Add the deproces_sessions rule.
+Exercise 2: Add the deproces_sessions rule.
 
 Starter for Using Snakemake: https://snakemake.readthedocs.io/en/stable/snakefiles/rules.html
 
@@ -21,6 +21,9 @@ Starter for Using Snakemake: https://snakemake.readthedocs.io/en/stable/snakefil
 | `run: my_python_code()`            |
 | `python: "my_script.py"`           |
 | `shell: "python my_script.py"      |
+
+
+Exercise 3: Add rules for each of the extract notebooks, using papermill.
 
 """
 
